@@ -1,4 +1,4 @@
-### Worksheet: Building and Using an Image Classification Model
+### Worksheet: Building and Using an Image Classification Model with Teachable Machine
 
 This worksheet will guide you through creating an image classification model using Google Teachable Machine, converting it into a mobile-friendly format (TensorFlow Lite), and deploying it into a sample mobile app using MediaPipe Studio.
 
